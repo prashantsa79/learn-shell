@@ -1,6 +1,6 @@
 ls
 ls -lrt
 
-kill -9 test
-test
-uu
+#            kill -9 test
+#            test
+#            uu
